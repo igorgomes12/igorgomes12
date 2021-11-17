@@ -1,7 +1,6 @@
 
 ##
 - 👋 Olá!! Eu sou o Igor Gomes, criador de conteudo de Programação e tecnologia!
-- 🌱 estudante de TypeScript
 
 
 <p 
