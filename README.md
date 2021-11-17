@@ -3,17 +3,52 @@
 - 👋 Olá!! Eu sou o Igor Gomes, criador de conteudo de Programação e tecnologia!
 - 🌱 estudante de TypeScript
 
-<div align="center">
-  <a href="https://github.com/igorgomes12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorgomes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgomes12&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p 
+  align="center" 
+  width="100%"
+>
+🚀 Javascript | ReactJS | React Native | TypeScript | NodeJS | HTML | CSS |
+</p>
 
+<p align="center">
+  <img 
+       width="48%" 
+       min-width="420px" 
+       height="200px" 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=igorgomes12&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000&cache_seconds=2500&hide_border=true" 
+   />
+  <img 
+        width="48%" 
+        min-width="420px" 
+        height="200px" 
+        align="center" 
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=igorgomes12&show_icons=truel&theme=algolia" title="Github Contributions" />
+</p>
+
+
+<!--
+**cnogueira1/cnogueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center" 
+  width="100%" >
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+</p>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
