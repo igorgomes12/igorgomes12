@@ -7,7 +7,7 @@
   align="center" 
   width="100%"
 >
-🚀 Javascript | ReactJS | React Native | TypeScript | NodeJS | HTML | CSS |
+🚀 Javascript | ReactJS | React Native | TypeScript | NodeJS | HTML | CSS | Angular 
 </p>
 
 <p align="center">
