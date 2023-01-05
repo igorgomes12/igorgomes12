@@ -1,4 +1,7 @@
-<img src="https://github.com/josepholiveira/josepholiveira/raw/master/images/illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
+<div align="center"> 
+<img height="300em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" min-width="400px" max-width="400px" width="400px" align="right" alt="Hello Word"> <br><br><br>
+</div> 
+
 
 ### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é Igor Gomes!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
@@ -36,8 +39,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 
-
-
+ 
 ----
 ##  Minhas Estatísticas de Desenvolvimento:
 
