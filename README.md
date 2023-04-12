@@ -15,9 +15,6 @@
 </a>
 
 
-
-<br><br/>
-
 - 🔭 Atualmente trabalhando como desenvolvedor Web.
 - 👦 Tenho 27 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
 - 👨🏻‍🎓 Graduando em Analise e Desenvolvimento de Sistemas.
