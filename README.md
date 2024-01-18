@@ -5,18 +5,8 @@
 
 ### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é Igor Gomes!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
-<a href="https://www.linkedin.com/in/igor-gomes-77ba02129/">
-  <img align="left" alt="Linkdein" width="28px" src="https://joaopaulovieira.dev/img_github/github_readme/linkedin.svg" />
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5531994002300">
-  <img align="left" alt="Facebook" width="28px" src="https://joaopaulovieira.dev/img_github/github_readme/whatsapp.svg" />
-</a>
-
-
 - 🔭 Atualmente trabalhando como desenvolvedor Web.
-- 👦 Tenho 27 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
+- 👦 Tenho 28 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
 - 👨🏻‍🎓 Graduando em Analise e Desenvolvimento de Sistemas.
 - 👨🏻‍💻 Evoluindo no React, TypeScript, Redux e Next.js.
 - 🧐 Focado em desenvolvimento Web.
