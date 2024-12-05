@@ -6,7 +6,7 @@
 ### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é Igor Gomes!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 🔭 Atualmente trabalhando como desenvolvedor Web.
-- 👦 Tenho 28 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
+- 👦 Tenho 29 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
 - 👨🏻‍🎓 Graduando em Analise e Desenvolvimento de Sistemas.
 - 👨🏻‍💻 Evoluindo no React, TypeScript, Redux e Next.js.
 - 🧐 Focado em desenvolvimento Web.
